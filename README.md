@@ -1,3 +1,3 @@
 # Riset Informatika C081 
-# Tugas
-Berisi berbagai tugas matkul Riset informatika
+> Nama : Nauval Maulana Rizky Irawan
+> NPM : 21081010066
