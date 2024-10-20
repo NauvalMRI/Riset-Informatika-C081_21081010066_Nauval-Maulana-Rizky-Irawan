@@ -6,7 +6,7 @@
 
 | Nomor | Judul Paper | Penulis | Jenis Penelitian | Review |
 |:-----:|---|:---:|:---:|:---:|
-|1|||Pure Research|[Riset Artikel ]()
+|1|[Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901 )||Pure Research|[Riset Artikel ]()
 
 # Nama dan NPM
 > **Nama : Nauval Maulana Rizky Irawan**
