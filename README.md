@@ -1,7 +1,7 @@
 # Riset Informatika C081 
 **Kumpulan tugas-tugas selama mata kuliah Riset Informatika**
 - [x] Resume Jurnal Penelitian Murni 
-- [ ] Resume Jurnal Penelitian Terapan
+- [x] Resume Jurnal Penelitian Terapan
 - [ ] Tugas lainnya
 # Kumpulan Artikel dan Jurnal Referensi
 | No | Judul Paper | Penulis |Tahun Terbit| Jenis Penelitian | Review |
