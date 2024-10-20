@@ -7,3 +7,6 @@
 > **Nama : Nauval Maulana Rizky Irawan**
 
 > **NPM : 21081010066**
+| Nomor | Judul Paper | Penulis | Jenis Penelitian | Review |
+|:-----:|---|:---:|:---:|:---:|
+|1|]()||Pure Research|[Riset Artikel ]()
