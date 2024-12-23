@@ -2,7 +2,7 @@
 **Kumpulan tugas-tugas selama mata kuliah Riset Informatika**
 - [x] Resume Jurnal Penelitian Murni 
 - [x] Resume Jurnal Penelitian Terapan
-- [x][Link Video Presentasi](https://drive.google.com/file/d/1qCdfd9CbQjJI56oJRw2Dz1obAPUxRymv/view?usp=sharing)
+- [Link Video Presentasi](https://drive.google.com/file/d/1qCdfd9CbQjJI56oJRw2Dz1obAPUxRymv/view?usp=sharing)
 # Kumpulan Artikel dan Jurnal Referensi
 | No | Judul Paper | Penulis |Tahun Terbit| Jenis Penelitian | Review |
 |:--:|---|:---:|:---:|:---:|:---:|
